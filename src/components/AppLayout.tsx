@@ -205,7 +205,7 @@ export default function AppLayout() {
           <div className="bg-white relative min-w-[300px] h-[360px] mr-[15px] rounded-[15px] overflow-hidden bg-[50%] bg-cover shadow-[0_5px_24px_rgba(31,37,59,.15)] rounded-md overflow-hidden shadow-md">
             <img
               className="w-full relative h-full object-cover"
-              src={"/assets/brownstones.jpg"}
+              src={"/assets/batterypark.jpg"}
               alt={"title"}
             />
             <h2 className="absolute top-0 left-0 m-[30px] text-[20px] font-[500] text-white">
