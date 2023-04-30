@@ -1,0 +1,318 @@
+{
+  "catalog": [
+    {
+      "title": "No Fee NYC Apartments",
+      "apartments": [
+        {
+          "id": 1,
+          "title": "1 bedroom in queens",
+          "address": "123 Main St, New York, NY",
+          "img": "/assets/1-bedroom-in-queens.jpg",
+          "price": 5000,
+          "bed": 2,
+          "bath": 2
+        },
+        {
+          "id": 2,
+          "title": "1 bedroom in queens",
+          "address": "456 5th Ave, New York, NY",
+          "img": "/assets/1-bedroom-in-queens-2.jpg",
+          "price": 2500,
+          "bed": 2,
+          "bath": 2
+        },
+        {
+          "id": 3,
+          "title": "1 bedroom in queens",
+          "address": "789 Lexington Ave, New York, NY",
+          "img": "/assets/1-bedroom-in-queens-3.jpg",
+          "price": 3500,
+          "bed": 2,
+          "bath": 2
+        }
+      ]
+    },
+    {
+      "title": "Pet Friendly NYC Apartments",
+      "apartments": [
+        {
+          "id": 4,
+          "title": "1 bedroom in Manhattan",
+          "address": "101 Main St, Brooklyn, NY",
+          "img": "/assets/1-bedroom-in-manhattan.jpg",
+          "price": 2000,
+          "bed": 2,
+          "bath": 2
+        },
+        {
+          "id": 5,
+          "title": "1 bedroom in Manhattan",
+          "address": "555 Hudson St, New York, NY",
+          "img": "/assets/1-bedroom-in-manhattan-2.jpg",
+          "price": 4500,
+          "bed": 2,
+          "bath": 2
+        },
+        {
+          "id": 6,
+          "title": "1 bedroom in Manhattan",
+          "address": "777 7th Ave, New York, NY",
+          "img": "/assets/1-bedroom-in-manhattan-3.jpg",
+          "price": 5500,
+          "bed": 2,
+          "bath": 2
+        }
+      ]
+    },
+    {
+      "title": "Luxury NYC Apartments",
+      "apartments": [
+        {
+          "id": 7,
+          "title": "1 bedroom in Manhattan",
+          "address": "111 Worth St, New York, NY",
+          "img": "/assets/1-bedroom-in-manhattan-4.png",
+          "price": 15000,
+          "bed": 2,
+          "bath": 2
+        },
+        {
+          "id": 8,
+          "title": "1 bedroom in Manhattan",
+          "address": "222 Central Park West, New York, NY",
+          "img": "/assets/1-bedroom-in-manhattan-5.png",
+          "price": 8000,
+          "bed": 2,
+          "bath": 2
+        },
+        {
+          "id": 9,
+          "title": "3 Bedrooms In Manhattan",
+          "address": "333 W 23rd St, New York, NY",
+          "img": "/assets/3-bedrooms-in-manhattan.png",
+          "price": 5500,
+          "bed": 2,
+          "bath": 2
+        }
+      ]
+    }
+  ],
+  "footerData": [
+    {
+      "title": "NYC APARTMENT FINDER",
+      "links": [
+        {
+          "label": "No Fee Apartments NYC",
+          "url": "/no-fee-apartments-nyc"
+        },
+        {
+          "label": "Furnished Apartments NYC",
+          "url": "/furnished-apartments-nyc"
+        },
+        {
+          "label": "Central Park Apartments",
+          "url": "/central-park-apartments"
+        },
+        {
+          "label": "Midtown Apartments",
+          "url": "/midtown-apartments"
+        },
+        {
+          "label": "Downtown Apartments",
+          "url": "/downtown-apartments"
+        },
+        {
+          "label": "Village Apartments",
+          "url": "/village-apartments"
+        },
+        {
+          "label": "Broadway Apartments",
+          "url": "/Broadway-apartments"
+        },
+        {
+          "label": "Times Square Apartments",
+          "url": "/timessquare-apartments"
+        },
+        {
+          "label": "Prospect Park Apartments",
+          "url": "/prospectpark-apartments"
+        },
+        {
+          "label": "Fifth Ave Apartments",
+          "url": "/fifthave-apartments"
+        },
+        {
+          "label": "Union Square Apartments",
+          "url": "/unionsquare-apartments"
+        },
+        {
+          "label": "Roosevelt Island Apartments",
+          "url": "/rooseveltisland-apartments"
+        },
+        {
+          "label": "RLuxury Apartments NYC",
+          "url": "/luxury-apartments"
+        }
+      ]
+    },
+    {
+      "title": "MANHATTAN APARTMENTS",
+      "links": [
+        {
+          "label": "Upper East Side Apartments",
+          "url": "/upper-east-side-apartments"
+        },
+        {
+          "label": "Upper West Side Apartments",
+          "url": "/upper-west-side-apartments"
+        },
+        {
+          "label": "Tribeca Apartments",
+          "url": "/tribeca-apartments"
+        },
+        {
+          "label": "Soho Apartments",
+          "url": "/soho-apartments"
+        },
+        {
+          "label": "West Village Apartments",
+          "url": "/westvillage-apartments"
+        },
+        {
+          "label": "East Village Apartments",
+          "url": "/eastvillage-apartments"
+        },
+        {
+          "label": "Sutton Place Apartments",
+          "url": "/suttonplace-apartments"
+        },
+        {
+          "label": "Chelsea Apartments",
+          "url": "/chelsea-apartments"
+        },
+        {
+          "label": "Gramercy Apartments",
+          "url": "/gramercy-apartments"
+        },
+        {
+          "label": "Washington Heights Apartments",
+          "url": "/washingtonheights-apartments"
+        },
+        {
+          "label": "Murray Hill Apartments",
+          "url": "/murrayhill-apartments"
+        },
+        {
+          "label": "Harlem Apartments",
+          "url": "/harlem-apartments"
+        }
+      ]
+    },
+    {
+      "title": "BROOKLYN APARTMENTS",
+      "links": [
+        {
+          "label": "No Fee Apartments Brooklyn",
+          "url": "/no-fee-apartments-brooklyn"
+        },
+        {
+          "label": "Williamsburg Apartments",
+          "url": "/williamsburg-apartments"
+        },
+        {
+          "label": "Brooklyn Heights Apartments",
+          "url": "/brooklyn-heights-apartments"
+        },
+        {
+          "label": "Bay Ridge Apartments",
+          "url": "/bay-ridge-apartments"
+        },
+        {
+          "label": "Park Slope Apartments",
+          "url": "/parkslope-apartments"
+        },
+        {
+          "label": "Crown Heights Apartments",
+          "url": "/crownheights-apartments"
+        },
+        {
+          "label": "Greenpoint Apartments",
+          "url": "/greenpoint-apartments"
+        },
+        {
+          "label": "Sunset Park Apartments",
+          "url": "/sunsetpark-apartments"
+        },
+        {
+          "label": "DownTown Brooklyn Apartments",
+          "url": "/downTown-brooklyn-apartments"
+        },
+        {
+          "label": "Cobble Hill Apartments",
+          "url": "/cobblehill-apartments"
+        },
+        {
+          "label": "Dumbo Apartments",
+          "url": "/dumbo-apartments"
+        }
+      ]
+    },
+    {
+      "title": "QUEENS APARTMENTS",
+      "links": [
+        {
+          "label": "No Fee Apartments Queens",
+          "url": "/no-fee-apartments-queens"
+        },
+        {
+          "label": "Long Island City Apartments",
+          "url": "/long-island-city-apartments"
+        },
+        {
+          "label": "Hunters Point Apartments",
+          "url": "/hunters-point-apartments"
+        },
+        {
+          "label": "Astoria Apartments",
+          "url": "/astoria-apartments"
+        },
+        {
+          "label": "Sunnyside Apartments",
+          "url": "/sunnyside-apartments"
+        },
+        {
+          "label": "Jackson Heights Apartments",
+          "url": "/jacksonheights-apartments"
+        },
+        {
+          "label": "Forest Hills Apartments",
+          "url": "/foresthills-apartments"
+        },
+        {
+          "label": "Flushing Apartments",
+          "url": "/flushing-apartments"
+        },
+        {
+          "label": "Woodside Apartments",
+          "url": "/woodside-apartments"
+        },
+        {
+          "label": "Elmhurst Apartments",
+          "url": "/elmhurst-apartments"
+        },
+        {
+          "label": "Bayside Apartments",
+          "url": "/bayside-apartments"
+        },
+        {
+          "label": "Woodhaven Apartments",
+          "url": "/woodhaven-apartments"
+        },
+        {
+          "label": "Glendale Apartments",
+          "url": "/glendale-apartments"
+        }
+      ]
+    }
+  ]
+}
