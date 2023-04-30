@@ -217,13 +217,16 @@ export default function AppLayout() {
       <section className="py-[50px] flex justify-center bg-[#f8faff]">
         <div className="container flex justify-around">
           {footerData.map((item) => (
-            <div className="">
+            <div key={item.title} className="">
               <h3 className="font-[500] uppercase m-[20px_0] leading-[20px] text-[#3151b7]">
                 {item.title}
               </h3>
               <div className="flex flex-col">
                 {item.links.map((link) => (
-                  <a className="text-[#817f96] leading-[30px] m-[5px_0] transition-[.1]">
+                  <a
+                    key={link.label}
+                    className="text-[#817f96] leading-[30px] m-[5px_0] transition-[.1]"
+                  >
                     {link.label}
                   </a>
                 ))}

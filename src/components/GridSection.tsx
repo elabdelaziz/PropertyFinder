@@ -51,13 +51,16 @@ const GridSection = () => {
         Trending Apartments For Rent In NYC
       </h1>
       {data.data.map((item) => (
-        <div className="max-w-6xl p-[20px_0_20px] overflow-hidden mx-auto px-4">
+        <div
+          key={item.title}
+          className="max-w-6xl p-[20px_0_20px] overflow-hidden mx-auto px-4"
+        >
           <h1 className="text-[20px] text-left font-[500] mb-8">
             {item.title}
           </h1>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
             {item.apartments.map((cardData) => (
-              <Link href={`/rentals/${cardData.id}`}>
+              <Link key={cardData.id} href={`/rentals/${cardData.id}`}>
                 <Card key={cardData.id} cardData={cardData} />
               </Link>
             ))}
